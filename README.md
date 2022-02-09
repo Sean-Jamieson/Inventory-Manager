@@ -18,7 +18,7 @@ Redux reducer implementation. A switch statement that examines action types and 
 object configurations, as per redux documentation.
 ## Server
 ### Controllers
-Implementation of CRUD database functions.
+Implementation of CRUD database functions with included error handling.
 ### Models
 definition of acceptable data formating for a mongoDB database entry.
 ### Routes
