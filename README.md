@@ -13,7 +13,7 @@ to various frontend components.
 implementation of backend functionality, first step in the front end chain to the backend functionality.
 ### Components
 Forward facing React elements. seperated to increase modularity and reusability of code.
-###Reducers
+### Reducers
 Redux reducer implementation. A switch statement that examines action types and returns unmodified 
 object configurations, as per redux documentation.
 ## Server
