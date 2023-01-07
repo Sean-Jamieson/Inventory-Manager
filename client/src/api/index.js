@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = "https://shopify-project-sean.herokuapp.com/items";
+const url = "eminent-star-argument.glitch.me/items";
 
 export const fetchItems = () => axios.get(url);
 export const createItem = (newItem) => axios.post(url, newItem);
